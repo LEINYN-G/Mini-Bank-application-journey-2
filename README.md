@@ -16,7 +16,7 @@
 - View Previous Transactions
 - Calculate Savings Interest
 
-   <img src="Image/bank" alt="App Screenshot" width="400" height="400">
+   <img src="Image/bank.jpeg" alt="App Screenshot" width="400" height="400">
 
 
 !) Accept the customer name and unique banking ID form the User followed by the user choice from the available menu.
@@ -35,6 +35,10 @@ This software can be used by as many users as needed by just creating a new obje
 All the other functionalities would be inside the class handled by individual methods that can be invoked using the object whenever needed.
 -> Using the class and object-oriented approach will help us to make our code reusable and also help us to encapsulate the whole as a single unit.
 I will create an Account class that would have all the details of the customer as its attributes and the other related functionalities as its methods.
+
+   <img src="Image/lets.jpeg" alt="App Screenshot" width="300" height="300">
+
+
 
 The class would help us create teh objects which would enable us to access the members of this class.
 so, we will need the following details as the attributes for the Account class.
