@@ -1,9 +1,23 @@
+
+   <img src="Image/jv.jpeg" alt="App Screenshot" width="200" height="200">
+
+
 # Mini-Bank-application
+
+
+   <img src="Image/bankk.jpeg" alt="App Screenshot" width="400" height="400">
+
+
+
+
 -> Functionalities
 - View and Fetch Account Details
 - Deposit and Withdraw Money
 - View Previous Transactions
 - Calculate Savings Interest
+
+   <img src="Image/bank" alt="App Screenshot" width="400" height="400">
+
 
 !) Accept the customer name and unique banking ID form the User followed by the user choice from the available menu.
 -> Following would be he main meny options:
@@ -30,3 +44,7 @@ so, we will need the following details as the attributes for the Account class.
 4) Previous Transaction
  At the time of obj creation, we will pass only two values, cutomerName, and customerID since balance and the previous transaction would keep on changing.
  To know/understand more explore the code!!
+
+
+      <img src="Image/cont.jpeg" alt="App Screenshot" width="300">
+
