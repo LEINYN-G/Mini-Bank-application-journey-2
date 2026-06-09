@@ -5,7 +5,7 @@
 # Mini-Bank-application
 
 
-   <img src="Image/bankk.jpeg" alt="App Screenshot" width="400" height="400">
+   <img src="Image/bankk.jpeg" alt="App Screenshot" width="200" height="250">
 
 
 
